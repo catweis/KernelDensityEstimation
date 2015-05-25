@@ -1,6 +1,8 @@
 
 function [ConvulutionKernel] = calcConvulutionKernel(Bandwidth, EdgeLength)
 
+
+% test 
 Bandwidth = 5;
 
 x=1:1:EdgeLength; y=x;
